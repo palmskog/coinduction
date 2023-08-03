@@ -31,6 +31,8 @@ Class CompleteLattice (X: Type) := {
   (* leq_xt: *) (forall x, leq x top)
 }.
 
+#[global] Hint Mode CompleteLattice ! : typeclass_instances.
+
 Declare Scope lattice.
 Open Scope lattice.
 Infix "==" := weq (at level 70): lattice.
