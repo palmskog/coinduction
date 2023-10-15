@@ -2,7 +2,7 @@
 
 [![Docker CI][docker-action-shield]][docker-action-link]
 
-[docker-action-shield]: https://github.com/damien-pous/coinduction/workflows/Docker%20CI/badge.svg?branch=master
+[docker-action-shield]: https://github.com/damien-pous/coinduction/workflows/Docker%20CI/badge.svg?branch=8.18
 [docker-action-link]: https://github.com/damien-pous/coinduction/actions?query=workflow:"Docker%20CI"
 
 A library for doing proofs by (enhanced) coinduction.
